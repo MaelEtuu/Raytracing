@@ -1,0 +1,10 @@
+^C:\USERS\MAEL\SOURCE\REPOS\RAYWEEK 2.0\BUILD\CMAKEFILES\B856A31F81195BA3FBA1CAC2A4D582A2\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SC:/Users/Mael/source/repos/RayWeek 2.0" "-BC:/Users/Mael/source/repos/RayWeek 2.0/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/Mael/source/repos/RayWeek 2.0/build/RayWeek.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Mael\source\repos\RayWeek 2.0\RayWeek\RayWeek.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Mael\source\repos\RayWeek 2.0\RayWeek\RayWeek.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Mael\source\repos\RayWeek 2.0\RayWeek\color.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Mael\source\repos\RayWeek 2.0\RayWeek\vec3.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Mael\source\repos\RayWeek 2.0\RayWeek\ray.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Mael\source\repos\RayWeek 2.0\RayWeek\hittable.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Mael\source\repos\RayWeek 2.0\RayWeek\sphere.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Mael\source\repos\RayWeek 2.0\RayWeek\hittable_list.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Mael\source\repos\RayWeek 2.0\RayWeek\rtweekend.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Mael\source\repos\RayWeek 2.0\RayWeek\interval.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Mael\source\repos\RayWeek 2.0\RayWeek\camera.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Mael\source\repos\RayWeek 2.0\RayWeek\material.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Mael\source\repos\RayWeek 2.0\RayWeek\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{EB06861A-5800-3569-B0B2-0BDFD5817C42}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{671FE819-EC06-34BE-A7A0-16480F523182}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
